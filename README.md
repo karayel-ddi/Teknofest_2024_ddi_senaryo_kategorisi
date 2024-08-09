@@ -13,3 +13,5 @@ Eğitimler sırasında kullanılmak üzere hazırladığımız veri setinin haz�
 Veri kazıma işlemleri: [Karayel-Uren](https://github.com/karayel-ddi/Karayel-Uren)\
 Veri etiketleme işlemleri: [Karayel-Label-App](https://github.com/karayel-ddi/Karayel-Label-App)
   
+
+#Acıkhack2024TDDİ  #Türkiye Açık Kaynak Platformu
