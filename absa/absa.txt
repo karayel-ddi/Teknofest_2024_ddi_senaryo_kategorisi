@@ -1,0 +1,1 @@
+absa.py dosyası Absect Based Sentiment Analysis modelinin çalışması için BERT-Aspect-Based-Sentiment-Analysis reposundaki adımlar ve kılavuzlar ışığında kullanılmıştır.
