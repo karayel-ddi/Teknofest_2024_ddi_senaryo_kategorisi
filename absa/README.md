@@ -1,1 +1,1 @@
-absa.py dosyası Absect Based Sentiment Analysis modelinin çalışması için [BERT-Aspect-Based-Sentiment-Analysis](https://github.com/nicolezattarin/BERT-Aspect-Based-Sentiment-Analysis) reposundaki adımlar ve kılavuzlar ışığında kullanılmıştır.
+[BERT-Aspect-Based-Sentiment-Analysis](https://github.com/nicolezattarin/BERT-Aspect-Based-Sentiment-Analysis) modeli oluşturulmuş ve entity tespiti sonrası eğitilen model ile [Karayel-DDI/Nazir_ABSA](https://huggingface.co/Karayel-DDI/Nazir_ABSA) hedef bazlı duygu analizi yapılmıştır.
