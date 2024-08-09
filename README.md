@@ -1,0 +1,1 @@
+# Teknofest_2024_ddi_senaryo_kategorisi
