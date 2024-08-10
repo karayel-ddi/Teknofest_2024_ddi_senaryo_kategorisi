@@ -1,4 +1,4 @@
-# Teknofest 2024 Doğal Dil İşleme - Doğal Dil İşleme Senaryosu Kategorisi
+# KARAYEL Takımı Teknofest 2024 Doğal Dil İşleme - Doğal Dil İşleme Senaryosu Kategorisi
 
 Verilen senaryo kapsamında müşteri şikayetlerinin içerisinde geçen markalar tespit edilecek, ardından her bir marka için ayrı bir duygu durumu analizi yapılacaktır.\
 Bu doğrultuda takım olarak öncelikle bu görevi Pretrained Instruction Modeller ile verimli bir eğitim sonrası çözebileceğimizi düşünerek GPT-2 ve gemma2b modelini eğitmeye çalıştık. Yaptığımız eğitimler sonrası elde ettiğimiz model, json yapısı ve entity'leri tespit etmekte oldukça başarılı iken özellikle karmaşık cümlelerde duygu analizi yapmakta zorlanıyordu. Dolayısıyla bu görevi NER + ABSA olacak şekilde tekrar düzenledik ve model geliştirmelerinde bulunduk.
